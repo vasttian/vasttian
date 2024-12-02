@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+<div>
+<a href="https://github.com/vasttian">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vasttian&show_icons=true&theme=radical&count_private=true"/>
+</a>
+
+<a href="https://github.com/vasttian">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasttian&layout=compact&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c&count_private=true"/>
+</a>
+</div>  
+
+### views
+![](https://komarev.com/ghpvc/?username=vasttian)
